@@ -12,6 +12,10 @@ body {
     background-color: rgb(61, 61, 61);
 }
 
+a {
+    text-decoration: none;
+}
+
 .background {
     position:fixed;
     right:0;
