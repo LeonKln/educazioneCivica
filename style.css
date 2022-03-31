@@ -176,3 +176,7 @@ a {
 #greyLink:hover {
     color: #9C9C9C;
 }
+
+#greyLink {
+    color: white;
+}
